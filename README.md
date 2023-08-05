@@ -1,5 +1,6 @@
 # ConversordeUnidades.github.io
 Conversor de divisas y temperaturas
+
 Funcionamiento 1: Convertir de la divisa colón costarricense a dolar,euro,libra esterlina, yen japonés,won-surcoreano y viceversa.
 Funcionamiento 1: Convertir las temperaturas celsius, farenheit y kelvin en todos los casos posibles entre ellas.
 
